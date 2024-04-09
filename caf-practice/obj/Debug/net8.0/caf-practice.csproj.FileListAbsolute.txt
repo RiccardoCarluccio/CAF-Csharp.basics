@@ -1,0 +1,14 @@
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\bin\Debug\net8.0\caf-practice.exe
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\bin\Debug\net8.0\caf-practice.deps.json
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\bin\Debug\net8.0\caf-practice.runtimeconfig.json
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\bin\Debug\net8.0\caf-practice.dll
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\bin\Debug\net8.0\caf-practice.pdb
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\caf-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\caf-practice.AssemblyInfoInputs.cache
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\caf-practice.AssemblyInfo.cs
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\caf-practice.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\caf-practice.dll
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\refint\caf-practice.dll
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\caf-practice.pdb
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\caf-practice.genruntimeconfig.cache
+C:\Users\Riccardo\source\repos\caf-practice\caf-practice\obj\Debug\net8.0\ref\caf-practice.dll
